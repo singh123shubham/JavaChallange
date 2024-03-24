@@ -14,3 +14,18 @@ Day 1 challange
 
 Day 2 challange 
   - print pattern (different pattern)
+  - solve 19 pattern different types
+  * right angel triangle
+  * left angel triangle
+  * pyramid
+  * diamond
+  * etc...
+
+  - Function and Method
+    - decleartion  & calling function / method
+    - 10 question solved
+    - Bacis Time & Space Complexity 
+     -- Time Complexity 
+       -Base Case  : O(1)
+       -Average Case :  O(n+1)/2
+       -Worst Case     : O(n) O(n^2)
