@@ -10,7 +10,7 @@ Day 1 challange
   - condition statement ( if , if else , while , do while )
   - for loop , while loop 
   - some question
-    -- sum of natural number etc
+    -- sum of natural number etc...
 
 Day 2 challange 
   - print pattern (different pattern)
@@ -29,3 +29,7 @@ Day 2 challange
        -Base Case  : O(1)
        -Average Case :  O(n+1)/2
        -Worst Case     : O(n) O(n^2)
+  
+  Day 3 challange
+  - Array 
+    -
