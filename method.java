@@ -2,7 +2,7 @@ import java.util.*;
 public class method {
 
     //  method and function decleration
-    public static void printName(String name) {
+    public static void printName(Strings name) {
         System.out.println("My Name is " + name);
         return;
     }
@@ -16,9 +16,9 @@ public class method {
         int  multiply=a*b;
         return multiply;
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
-        String name = sc.next();
+        Strings name = sc.next();
 
         int a =  sc.nextInt();
         int b = sc.nextInt();

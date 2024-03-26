@@ -2,7 +2,7 @@ import java.util.*;
 
 public class TwoDArray {
     
-   public  static void main(String[] args) {
+   public  static void main(Strings[] args) {
     // Scanner sc= new Scanner(System.in);
     // System.out.println("Enter a row and col  number for the 2D array:");
     // int rows =sc.nextInt();

@@ -3,7 +3,7 @@ public class Array {
 
     // ?Array 
     //List of items of the same datatypes    , type[] arrayName = new type[size]
-    public static void main(String[] args){
+    public static void main(Strings[] args){
         // int[] marks = new int[4];
         // marks[0] = 10;
         // marks[1] = 20;

@@ -15,7 +15,7 @@ public class fibonacci {
         }
         return fibArray;
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of Fibonacci numbers to generate: ");
         int num = sc.nextInt();
