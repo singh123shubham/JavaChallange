@@ -129,3 +129,20 @@ Day 2 challange
 
     -- Bit Mainpulation Operators:
       - Quetion solved
+
+  Day 5 Challange
+   - Sorting  
+    -- Bubble Soring Algorithm 
+    -- Selection Sorting Algorithm
+    -- Insertion Sorting  
+    -- Liner Sorting
+
+   - Resursion 
+     -- Recursive (theory)
+     -- Question Solved 
+       - print Number n to 1
+       - actorial  of a number using recursion
+       - Sum Calculate 
+       - Fibonacci Series
+       - BinarySearch
+       - etc... 
