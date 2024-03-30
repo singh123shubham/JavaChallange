@@ -35,6 +35,22 @@ public class Recursion {
         }
     }
 
+    //? Print x^n (with stack height = n)
+    public static int printPower( int x , int n){
+        if(n==1){
+            return 1;
+        }
+
+        if(x==0){
+            return 1;
+        }
+
+        int p = printPower(x ,n-1);
+        int result = x *  p ;
+        return result;
+
+    }
+
     //?BinarySearch 
     public static int BinarySearch(int[] array, int start ,int end , int target){
         if(start <= end){
@@ -66,6 +82,10 @@ public class Recursion {
             System.out.print(fibonacci(i) + " ");
         }
 
+
+        int ans = printPower(2, 5);
+        System.out.println(ans);
+        System.out.println("bbbbbb");
 
         int[] sortedArray = {2, 5, 8, 12, 16, 23, 38, 56, 72, 91};
         int target = 2;

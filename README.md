@@ -145,4 +145,59 @@ Day 2 challange
        - Sum Calculate 
        - Fibonacci Series
        - BinarySearch
+       - Print x^n (with stack height = logn)
        - etc... 
+
+  Day 6 Challange
+   - Resursion 
+    -- solved Tower of Hanoi O(n^2 - 1)  problem
+    -- reverse a String (resursion)
+    -- find the first and last occurrence of a character in a string
+    -- check if an array is sorted (Strickly increasing )
+    -- Move all "x" to end of the string
+
+
+
+Day 7 Challange
+ - OOPs
+  -  Classes, Objects, Constructors, Methods, Static Members,
+   -- Constructors (Default Constructor , No-Arg Constructor , Parameterized Constructor)
+   -- Overloading and Overriding Methods
+- Core Concepts of Object-Oriented Programming
+
+  -- package
+  -- Access Modifire (public / private / protected / default )
+    -- private (access getter and setter)
+    -- data hideing
+
+  -- Inheritance 
+    - Single Level Inheritance
+    - Multi Level Inheritance
+    - Hierarchical Inheritance
+    - Hybride  inheritance (public + protected or private + public)
+  
+  -- Encapsulation
+  
+  -- Abstraction
+   -- Abstract class 
+   -- Interface
+  
+  -- Polymorphism 
+     -static / compile time  polymorphism  ( function overloading and operater overloading)
+     -dynamic  / runtime polymorphism (method overriding & function overriding)
+
+  -- Exception Handling in Java 
+      -- try block
+      -- catch block
+      -- finally block
+      -- throw keyword
+
+
+  Day 8 Challenges 
+   - Java Collections Framework
+
+
+
+
+    
+ 
